@@ -1,0 +1,38 @@
+body{
+  background-color:black;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  
+}
+
+.caption p{
+  padding:5px;
+  font-size:16px;
+  font-style:oblique;
+  text-align:center;
+  color:gray;
+}
+.thumbnail{
+  margin-left:10%;
+  margin-right:10%;
+}
+.jumbotron{
+  background-image:url("https://img00.deviantart.net/98c0/i/2014/048/7/1/eric_clapton___wallpaper_by_quickmal-d76wbp3.png");
+	height:100%;
+	background-position:center;
+	background-attachment:fixed;
+	background-size:cover;
+}
+.container{
+  background-color:rgba(250, 250, 210,0.8);
+}
+
+.row{
+  padding:15px; 
+}
+.row table, ul{
+  padding:15px;
+}
+.row table{
+  text-align: center;
+}
+
